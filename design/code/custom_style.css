@@ -1,0 +1,215 @@
+.te-front-side{
+	color:#0088cc !important;
+}
+
+.card-img-top{
+	height: 356px;
+	object-fit: cover;
+}
+
+.te-bg-light{
+	background-color: #f5f5f5;
+}
+
+.te-font-size-16{
+	font-size: 16px !important
+}
+
+.te-product-box{
+	transition: 0.3s;
+}
+
+.te-category-list-1{
+	font-size: 14px;
+}
+
+.te-category-list-1 a:hover{
+	color: #0088cc !important;
+}
+
+.te-star{
+	font-size: 11px;
+}
+
+ .te-category-list{
+ 	font-size: 14px;
+ }
+
+.te-category-list a:hover{
+	color:#0088cc !important;
+}
+
+.te-star-light{
+	color: #d6d6d6;
+}
+
+.te-width-max-content{
+	width: max-content;
+}
+
+.card-title{
+	line-height: 1.3;
+}
+
+.card-title a{
+	color: black !important;
+}
+
+.te-main-price{
+	font-size: 19px;
+}
+
+.card-title a:hover{
+	color: #0088cc !important;
+}
+
+.te-product-box:hover{
+	box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.125) !important;
+}
+
+.te-quick-view{
+	bottom: -16%;
+	transition: 0.4s;
+	opacity: 0.9;
+}
+
+.te-product-box:hover .te-quick-view {
+	bottom: 0% !important;
+	opacity: 1;
+}
+
+.te-request-review:hover{
+	background-color: #0088cc !important;
+}
+
+.te-request-review-3{
+	top:2%;
+	right: 3%;
+	opacity: 0.9;
+	background-color: black !important;
+}
+
+.te-request-review-2{
+	top:2%;
+	left: 3%;
+	background-color: #0088cc !important;
+}
+
+.te-request-review-2:hover{
+	background-color: black !important;
+}
+
+.te-request-review-3:hover, .te-dropdown:hover{
+	background-color: #0088cc !important;
+}
+
+
+@media (max-width: 1024px) {
+	.card-img-top {
+	    height: 449px;
+	}
+}
+
+@media (min-width: 769px) and (max-width: 1023px) {
+	.te-product-box{
+		max-width: 33.33% !important;
+	}
+
+	.card-img-top {
+	    height: 319px;
+	}
+
+	.te-quick-view {
+	    bottom: -23%;
+	}
+}
+
+@media (max-width: 767px) {
+	.te-form-select, .te-custom-file{
+		margin-bottom: 1rem !important;
+	}
+}
+
+
+
+/*Book Details Form start*/
+
+.te-form-select, .te-custom-file{
+	height: 53px !important;
+	font-size: 14px !important;
+}
+
+.te-form-select, .te-custom-file label{
+	border-color: rgba(0,0,0,0.09) !important;
+}
+
+.te-custom-file label{
+	line-height: 2.7;
+}
+
+.custom-file-input:lang(en) ~ .custom-file-label::after {
+    height: 100%;
+    line-height: 2.7;
+    background-color: #0088cc;
+    border-left: 1px solid #0088cc;
+    color: #ffffff;
+}
+
+.form-control:focus, .custom-file-input:focus ~ .custom-file-label, .custom-select:focus{
+    border: 1px solid black !important;
+    box-shadow: initial !important;
+}
+
+/*Book Details Form End*/
+
+
+/* request Review Start */
+
+.te-table tr td, .te-table tr th{
+	white-space: nowrap;
+}
+
+.te-link-to-amazon:hover{
+	color: black;
+}
+
+.btn-dark.dropdown-toggle:focus{
+	
+}
+
+/* request Review End */
+
+/* custom scrollbar start */
+
+/* width */
+.table-responsive::-webkit-scrollbar {
+	height: 7px;
+}
+
+.table-responsive::-webkit-scrollbar:hover {
+	height: 17px !important;
+}
+
+/* Track */
+.table-responsive::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+.table-responsive::-webkit-scrollbar-thumb {
+  background: #00000099; 
+}
+
+/* Handle on hover */
+.table-responsive::-webkit-scrollbar-thumb:hover {
+  background: #0088cc; 
+}
+
+.te-dropdown .dropdown-item:hover, .te-dropdown .dropdown-item:focus {
+    color: white;
+    text-decoration: none;
+    background-color: #0088cc;
+}
+
+/* custom scrollbar End */
+

@@ -1,0 +1,244 @@
+0]
+On every page we need to find appropriate feature image where we show page time
+
+Also need to finalise with website logo 
+also create fav icon
+
+Once log is in we need to change theme color
+
+1]
+Need to speed up website loading 
+check beluxury site. Pinkesh know abou it. This site is so fast check how it is fast what plugins they have used etc
+
+2]
+Inside Member menu
+change font-size 18px and f-w 700 for all member menu
+
+3]
+https://scvrs.thatsend.dev/hall/
+લાસ્ટ નામ*: => chang to => અટક
+પ્રથમ નામ*: => Remove પ્રથમ 
+
+
+4]
+https://scvrs.thatsend.dev/donors/
+categorisation is rmain => standard, premimum  etc
+
+5]
+https://scvrs.thatsend.dev/government-policy/
+January 1, 2021by admin => need space between 2021and by
+
+6]
+https://scvrs.thatsend.dev/prize-distribution/
+need to make column name in gujarati
+Photo needs to be first column
+need column Institute (admin will enter schools/college/university name)
+in csv we only need image url not <img> tag
+
+column orders as below
+Photo
+Year
+name
+Surname
+Achivement
+Award name
+Institute 
+
+We need at least 20 dummny appropriate data for demonstartion.
+We will wait for data from client and if they delay we will go for dummy data.
+
+
+7]
+https://scvrs.thatsend.dev/standard-post/
+image slider is not there
+
+8]
+In forms layout also show some content so, client can get idea.
+
+create some meaning full form like...
+Apply for volunteership during events at SCVRS
+
+Keep only one form but make it so perfect
+
+Remove Posts Categories right side bar 
+add some relevent side bar like advertisement 
+
+
+
+9]
+https://scvrs.thatsend.dev/contact-us/
+map with some routh highlight and also need to show hall image once we will get insteadof marker
+check echomesa map
+Highlight road and connectred to community hall
+
+10]
+Sign up 
+Stop activation email sending to user.
+User will be activated from admin only
+also change message after sign up to.
+At this moment it shows to check email instead we need to show contact admin to verfy your account and activate it.
+
+10]
+change menu name (also change page url according to)
+My Matrimony List => Add Matrimony Profile
+
+11]
+https://scvrs.thatsend.dev/matrimony-profile/
+ગ્રાન્ડ ફાધર => દાદા
+મૂળ સ્થાન => મૂળ સ્થાન (ગામ /શહેર નું નામ)
+
+
+Remove અન્ય માહિતી section and add those filed in personal detial section
+
+Make સંબંધિત વિગતો at last
+	
+12]	
+change menu name
+Search Matrimony => My Matrimony List (also change page url according to)
+Where I can see only those profile which are added by me and I can edit and delete it
+Make edit in poup and only show form no menu nothing not left no top
+
+13]
+https://scvrs.thatsend.dev/search-matrimony/
+personal vigat tab will come first 
+2nd - Family 
+3rd brother - siste
+4th - mama mosal
+5th - relative 
+change cvolumn name in gugarati
+5 tab in one line
+
+columns name IN GUJARATI
+photo
+Name
+DOB
+Father
+Mother
+mama
+mobile
+
+
+Show 3 actionsin one column Action: Edit | Delete | View
+
+Do some data entry of 2 records in at least 3 account each unique so test we can only see our entry
+
+only show those records which I have entered
+
+14]
+change menu name
+Matrimony List => Matrimony Search
+
+15]
+https://scvrs.thatsend.dev/matrimony-list/
+Layout relation will be same as above point [13] Only view action will come
+Beside search box show hit which fields user cAN SEARCH IN GUJARATI	
+
+16]
+In user menue aftyer login:
+Add metrimony and family menu in user logged in menu
+Remove create group menu 
+
+17]
+https://scvrs.thatsend.dev/members/admin/
+Need to remove many functionality 
+
+Remove MATCH round 
+
+Remove Edit COver image icon
+
+Remove  Forums, Artical, Media tab
+
+
+In side setting menu
+Remove Profile Visibility, Export Data tab
+
+Remove Members Right side bar
+
+Add advewrtising side bar
+
+Add event and Governmentr policy sidebar 
+
+Remove Who’s Online Right side bar
+
+18]
+https://scvrs.thatsend.dev/
+Restore content below જય માતાજી
+
+19]
+https://scvrs.thatsend.dev/hall/
+If some future dats are already booked then show those dates as occupide and do not allow to select for booking 
+So, any one can check availability there 
+
+20]
+Need to change home page content and images once we get it from client 
+
+
+21]
+Need to change booking page content and images once we get it from client 
+
+22]
+Need to change event page and event detailed page content and images once we get it from client 
+
+23]
+Need to change government policy page and government policy detailed page content and images once we get it from client 
+
+24]
+https://scvrs.thatsend.dev/personality-of-proud/
+Need to change personality-of-proud page and personality-of-proud detailed page content and images once we get it from client 
+
+25]
+Need to change blog page and blog detailed page content and images once we get it from client 
+In case of blog we can decide 4 blogs which are common and we will add those for permenant	
+How to do hall booking
+Usefull government policy 
+How to sign up and why do you need it.
+Precautions in COVID-19
+
+Genereal topic will come in blog
+
+26]
+Need to do R&D for advertisement module 
+We need to work on this fast
+
+27]
+https://scvrs.thatsend.dev/about-us/
+In about us page once we will get content from client we will change it 
+
+28]
+https://scvrs.thatsend.dev/contact-us/
+Phone number required
+
+Make map bigger 
+
+Remove space after Follow Us On Social Media so make it bit compact
+
+Also need to add some photo of hall once we will get content from client
+
+29]
+Do now allow to access matrimony withouth login. This is strict 
+Also once user add profile it must get approved by admin after it will go public.
+
+30]
+https://scvrs.thatsend.dev/donors/
+We have 4 category as per donation amount
+50,000 <=  => Bronze
+<= 50,001 and 200,000 <= => Silver
+<= 200,001 and 700,000 <= => Gold
+<= 700,001 up => Platinum
+
+Try to put tab based on doner type and by clicking on it it will show all donner of that category
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

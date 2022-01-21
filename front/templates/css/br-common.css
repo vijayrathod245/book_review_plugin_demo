@@ -1,0 +1,141 @@
+
+.te-front-side{
+    color:#0088cc !important;
+}
+
+.card-img-top{
+    height: 356px;
+    object-fit: cover;
+}
+
+.te-bg-light{
+    background-color: #f5f5f5;
+}
+
+.te-font-size-16{
+    font-size: 16px !important
+}
+
+.te-product-box{
+    transition: 0.3s;
+}
+
+.te-category-list-1{
+    font-size: 14px;
+}
+
+.te-star{
+    font-size: 11px;
+}
+
+.te-category-list{
+    font-size: 12px;
+}
+
+.te-category-list a:hover{
+    color:#0088cc !important;
+}
+
+.te-star-light{
+    color: #d6d6d6;
+}
+
+.te-width-max-content{
+    width: max-content;
+}
+
+.card-title{
+    line-height: 1.3;
+}
+
+.card-title a{
+    color: black !important;
+}
+
+.te-main-price{
+    font-size: 19px;
+}
+
+.card-title a:hover{
+    color: #0088cc !important;
+}
+
+.te-product-box:hover{
+    /*box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.125) !important;*/
+}
+.te-shadow:hover{
+    box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.125) !important;
+}
+
+.te-quick-view{
+    bottom: -16%;
+    transition: 0.4s;
+    opacity: 0.9;
+}
+
+.te-product-box:hover .te-quick-view {
+    bottom: 0% !important;
+    opacity: 1;
+}
+
+.te-request-review:hover{
+    background-color: #0088cc !important;
+}
+
+.te-request-review-3{
+    top:2%;
+    right: 3%;
+    opacity: 0.9;
+    background-color: black !important;
+}
+
+.te-request-review-2{
+    top:2%;
+    left: 3%;
+    background-color: #0088cc !important;
+}
+
+.te-request-review-2:hover{
+    background-color: black !important;
+}
+
+.te-request-review-3:hover{
+    background-color: #0088cc !important;
+}
+.main-info {
+    padding: 0 !important;
+}
+.padding-info {
+    margin-top: 40px;
+}
+.bk-status{
+    position: absolute;
+    top: 10px;
+    right: 0;
+}
+@media (max-width: 1024px) {
+    .card-img-top {
+        height: 449px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1023px) {
+    .te-product-box{
+        max-width: 33.33% !important;
+    }
+
+    .card-img-top {
+        height: 319px;
+    }
+
+    .te-quick-view {
+        bottom: -23%;
+    }
+    
+}
+@media (max-width: 480px) {
+    .btn-block-info {
+        margin-bottom: 10px !important;
+        width: 100%;
+    }
+}
